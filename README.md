@@ -5,7 +5,9 @@
 This project examines whether capuchin monkeys (*Sapajus spp*) continue to help a partner in a cooperative barpull task after they have already received their own reward, and whether that helping depends on reciprocity over short (trial-to-trial) and long (cumulative) time frames or on relationship quality (Composite Sociality Index, CSI).
 
 **Species:** Brown capuchin monkeys (*Sapajus spp*)  
+
 **N:** 7 subjects across 5 dyads 
+
 **Task:** Manual cooperative barpull task with a removable blocker  
 ---
 
