@@ -8,7 +8,8 @@ This project examines whether capuchin monkeys (*Sapajus spp*) continue to help 
 
 **N:** 7 subjects across 5 dyads 
 
-**Task:** Manual cooperative barpull task with a removable blocker  
+**Task:** Manual cooperative barpull task with removable blockers
+
 ---
 
 ## Repository Structure
